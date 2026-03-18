@@ -1,0 +1,2079 @@
+
+
+          _____                   _______                   _____           _______                   _____                    _____                    _____          
+         /\    \                 /::\    \                 /\    \         /::\    \                 /\    \                  /\    \                  /\    \         
+        /::\    \               /::::\    \               /::\____\       /::::\    \               /::\    \                /::\    \                /::\____\        
+       /::::\    \             /::::::\    \             /:::/    /      /::::::\    \             /::::\    \              /::::\    \              /:::/    /        
+      /::::::\    \           /::::::::\    \           /:::/    /      /::::::::\    \           /::::::\    \            /::::::\    \            /:::/    /         
+     /:::/\:::\    \         /:::/~~\:::\    \         /:::/    /      /:::/~~\:::\    \         /:::/\:::\    \          /:::/\:::\    \          /:::/    /          
+    /:::/__\:::\    \       /:::/    \:::\    \       /:::/    /      /:::/    \:::\    \       /:::/  \:::\    \        /:::/__\:::\    \        /:::/____/           
+    \:::\   \:::\    \     /:::/    / \:::\    \     /:::/    /      /:::/    / \:::\    \     /:::/    \:::\    \      /::::\   \:::\    \       |::|    |            
+  ___\:::\   \:::\    \   /:::/____/   \:::\____\   /:::/    /      /:::/____/   \:::\____\   /:::/    / \:::\    \    /::::::\   \:::\    \      |::|    |     _____  
+ /\   \:::\   \:::\    \ |:::|    |     |:::|    | /:::/    /      |:::|    |     |:::|    | /:::/    /   \:::\ ___\  /:::/\:::\   \:::\    \     |::|    |    /\    \ 
+/::\   \:::\   \:::\____\|:::|____|     |:::|    |/:::/____/       |:::|____|     |:::|    |/:::/____/     \:::|    |/:::/__\:::\   \:::\____\    |::|    |   /::\____\
+\:::\   \:::\   \::/    / \:::\    \   /:::/    / \:::\    \        \:::\    \   /:::/    / \:::\    \     /:::|____|\:::\   \:::\   \::/    /    |::|    |  /:::/    /
+ \:::\   \:::\   \/____/   \:::\    \ /:::/    /   \:::\    \        \:::\    \ /:::/    /   \:::\    \   /:::/    /  \:::\   \:::\   \/____/     |::|    | /:::/    / 
+  \:::\   \:::\    \        \:::\    /:::/    /     \:::\    \        \:::\    /:::/    /     \:::\    \ /:::/    /    \:::\   \:::\    \         |::|____|/:::/    /  
+   \:::\   \:::\____\        \:::\__/:::/    /       \:::\    \        \:::\__/:::/    /       \:::\    /:::/    /      \:::\   \:::\____\        |:::::::::::/    /   
+    \:::\  /:::/    /         \::::::::/    /         \:::\    \        \::::::::/    /         \:::\  /:::/    /        \:::\   \::/    /        \::::::::::/____/    
+     \:::\/:::/    /           \::::::/    /           \:::\    \        \::::::/    /           \:::\/:::/    /          \:::\   \/____/          ~~~~~~~~~~          
+      \::::::/    /             \::::/    /             \:::\    \        \::::/    /             \::::::/    /            \:::\    \                                  
+       \::::/    /               \::/____/               \:::\____\        \::/____/               \::::/    /              \:::\____\                                 
+        \::/    /                 ~~                      \::/    /         ~~                      \::/____/                \::/    /                                 
+         \/____/                                           \/____/                                   ~~                       \/____/                                  
+                                                                                                                                           
+                                                                    Moonsec V3 Dumper made by Solodev
+
+ {{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: MoonSec_StringsHiddenAttr'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: _ZZZHLBXoOVjo'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: This file was protected with MoonSec V3'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 53', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: loadstring'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: HttpGet'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: https://sirius.menu/rayfield'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: setclipboard'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: https://discord.gg/VYFTYD8qW8'
+},
+{
+'Index: 1' | 'Value: 35', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: CreateWindow'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Rayfield/CatPvP (everything you need)'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Icon', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: LoadingTitle', 
+'Index: 4' | 'Value: Loading'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: LoadingSubtitle', 
+'Index: 4' | 'Value: by Syskey'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Theme', 
+'Index: 4' | 'Value: Serenity'
+},
+{
+'Index: 1' | 'Value: 38', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: DisableRayfieldPrompts', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: DisableBuildWarnings', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Enabled', 
+'Index: 4' | 'Value: true'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: FolderName'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: FileName', 
+'Index: 4' | 'Value: Big Hub'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: ConfigurationSaving', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Enabled', 
+'Index: 4' | 'Value: true'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Invite', 
+'Index: 4' | 'Value: VYFTYD8qW8'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: RememberJoins', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Discord', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: KeySystem', 
+'Index: 4' | 'Value: true'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Title', 
+'Index: 4' | 'Value: Rayfield KS'
+},
+{
+'Index: 1' | 'Value: 60', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Subtitle', 
+'Index: 4' | 'Value: Key System'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Note', 
+'Index: 4' | 'Value: Key is in https://discord.gg/VYFTYD8qW8'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: FileName', 
+'Index: 4' | 'Value: Key'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: SaveKey', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: GrabKeyFromSite', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: PetaByte'
+},
+{
+'Index: 1' | 'Value: 59', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Key', 
+'Index: 4' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: KeySettings', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: CreateTab'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Main'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Notify'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Title', 
+'Index: 4' | 'Value: Loaded'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Content', 
+'Index: 4' | 'Value: The Cheat Has Loaded'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Duration', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Image', 
+'Index: 4' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateButton'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Set objects' HP to 0'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 44', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateInput'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Input Amount of points u want the objects to Give u'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: CurrentValue', 
+'Index: 4' | 'Value: '
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: PlaceholderText', 
+'Index: 4' | 'Value: Input Placeholder'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: RemoveTextAfterFocusLost', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Flag', 
+'Index: 4' | 'Value: Input1'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateDivider'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateSlider'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: WalkSpeed'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 36', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 250'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Range', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 60', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Increment', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Suffix', 
+'Index: 4' | 'Value: Speed'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: CurrentValue', 
+'Index: 4' | 'Value: 32'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Flag', 
+'Index: 4' | 'Value: Slider1'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: CreateTab'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: Teleport'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: CreateButton'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Teleport to level1/spawn'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: CreateTab'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Other'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: CreateButton'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Delete Vip Area Walls'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+{{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: MoonSec_StringsHiddenAttr'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: _ZZZHLBXoOVjo'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: This file was protected with MoonSec V3'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 53', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: loadstring'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: HttpGet'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: https://sirius.menu/rayfield'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: setclipboard'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: https://discord.gg/VYFTYD8qW8'
+},
+{
+'Index: 1' | 'Value: 35', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: CreateWindow'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Rayfield/CatPvP (everything you need)'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Icon', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: LoadingTitle', 
+'Index: 4' | 'Value: Loading'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: LoadingSubtitle', 
+'Index: 4' | 'Value: by Syskey'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Theme', 
+'Index: 4' | 'Value: Serenity'
+},
+{
+'Index: 1' | 'Value: 38', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: DisableRayfieldPrompts', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: DisableBuildWarnings', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Enabled', 
+'Index: 4' | 'Value: true'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: FolderName'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: FileName', 
+'Index: 4' | 'Value: Big Hub'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: ConfigurationSaving', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Enabled', 
+'Index: 4' | 'Value: true'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Invite', 
+'Index: 4' | 'Value: VYFTYD8qW8'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: RememberJoins', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Discord', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: KeySystem', 
+'Index: 4' | 'Value: true'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Title', 
+'Index: 4' | 'Value: Rayfield KS'
+},
+{
+'Index: 1' | 'Value: 60', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Subtitle', 
+'Index: 4' | 'Value: Key System'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Note', 
+'Index: 4' | 'Value: Key is in https://discord.gg/VYFTYD8qW8'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: FileName', 
+'Index: 4' | 'Value: Key'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: SaveKey', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: GrabKeyFromSite', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: PetaByte'
+},
+{
+'Index: 1' | 'Value: 59', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Key', 
+'Index: 4' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: KeySettings', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: CreateTab'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Main'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Notify'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Title', 
+'Index: 4' | 'Value: Loaded'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Content', 
+'Index: 4' | 'Value: The Cheat Has Loaded'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Duration', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Image', 
+'Index: 4' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateButton'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Set objects' HP to 0'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 44', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateInput'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Input Amount of points u want the objects to Give u'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: CurrentValue', 
+'Index: 4' | 'Value: '
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: PlaceholderText', 
+'Index: 4' | 'Value: Input Placeholder'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: RemoveTextAfterFocusLost', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Flag', 
+'Index: 4' | 'Value: Input1'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateDivider'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CreateSlider'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: WalkSpeed'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 36', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 250'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Range', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 60', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Increment', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Suffix', 
+'Index: 4' | 'Value: Speed'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: CurrentValue', 
+'Index: 4' | 'Value: 32'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Flag', 
+'Index: 4' | 'Value: Slider1'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: CreateTab'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: Teleport'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: CreateButton'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Teleport to level1/spawn'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: CreateTab'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Other'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 4483362458'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: CreateButton'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: Name', 
+'Index: 4' | 'Value: Delete Vip Area Walls'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: Callback', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+{{{{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Players'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Humanoid'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: WalkSpeed', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 1', 
+}
+},
+{{{
+'Index: 1' | 'Value: 46', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: pairs'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: workspace'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Replicated'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: GetDescendants'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: Name'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: Points'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Value', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 1', 
+}
+},
+{{{
+'Index: 1' | 'Value: 31', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Players'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: HumanoidRootPart'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: CFrame'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 674'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 577'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: CFrame', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 46', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: pairs'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: workspace'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Replicated'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: GetDescendants'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: Name'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: Strength'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Value', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 46', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: pairs'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: workspace'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: VIPBarriers'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: GetDescendants'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: Destroy'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+}
+},
+
+{Index: 3 | Value: 0
+
+},
+
+
+},
+
+{Index: IsVisible | Value: function: 0xe20590efc19f8375
+{Index: LoadConfiguration | Value: function: 0xd566096295af9155
+{Index: Notify | Value: function: 0x229b7cabbaf0a435
+{Index: Destroy | Value: function: 0xe44580f68630b835
+{Index: CreateWindow | Value: function: 0xcb6a37d987d70bf5
+{{
+'Index: Shadow' | 'Value: 0.137255, 0.0980392, 0.0588235', 
+'Index: SliderProgress' | 'Value: 0.980392, 0.588235, 0.294118', 
+'Index: PlaceholderColor' | 'Value: 0.745098, 0.588235, 0.509804', 
+'Index: InputStroke' | 'Value: 0.352941, 0.254902, 0.196078', 
+'Index: ToggleDisabledStroke' | 'Value: 0.431373, 0.333333, 0.294118', 
+'Index: InputBackground' | 'Value: 0.235294, 0.176471, 0.137255', 
+'Index: ElementBackgroundHover' | 'Value: 0.27451, 0.196078, 0.156863', 
+'Index: DropdownUnselected' | 'Value: 0.215686, 0.156863, 0.117647', 
+'Index: SelectedTabTextColor' | 'Value: 0.196078, 0.117647, 0.0392157', 
+'Index: NotificationBackground' | 'Value: 0.196078, 0.137255, 0.0980392', 
+'Index: DropdownSelected' | 'Value: 0.27451, 0.196078, 0.156863', 
+'Index: SecondaryElementStroke' | 'Value: 0.294118, 0.196078, 0.137255', 
+'Index: Background' | 'Value: 0.176471, 0.117647, 0.0784314', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.294118, 0.235294, 0.215686', 
+'Index: TabStroke' | 'Value: 0.352941, 0.235294, 0.176471', 
+'Index: ElementBackground' | 'Value: 0.235294, 0.176471, 0.137255', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.784314, 0.392157, 0.196078', 
+'Index: ToggleEnabled' | 'Value: 0.941176, 0.509804, 0.117647', 
+'Index: ToggleEnabledStroke' | 'Value: 1, 0.627451, 0.196078', 
+'Index: ToggleDisabled' | 'Value: 0.352941, 0.27451, 0.235294', 
+'Index: SecondaryElementBackground' | 'Value: 0.215686, 0.156863, 0.117647', 
+'Index: ToggleBackground' | 'Value: 0.215686, 0.156863, 0.117647', 
+'Index: TabTextColor' | 'Value: 0.980392, 0.862745, 0.784314', 
+'Index: ElementStroke' | 'Value: 0.333333, 0.235294, 0.176471', 
+'Index: SliderBackground' | 'Value: 0.862745, 0.509804, 0.235294', 
+'Index: SliderStroke' | 'Value: 1, 0.666667, 0.333333', 
+'Index: NotificationActionsBackground' | 'Value: 0.960784, 0.901961, 0.843137', 
+'Index: Topbar' | 'Value: 0.215686, 0.156863, 0.0980392', 
+'Index: TabBackground' | 'Value: 0.294118, 0.196078, 0.137255', 
+'Index: TabBackgroundSelected' | 'Value: 0.901961, 0.705882, 0.392157', 
+'Index: TextColor' | 'Value: 1, 0.960784, 0.901961'
+},
+{
+'Index: Shadow' | 'Value: 0.0588235, 0.0784314, 0.0784314', 
+'Index: SliderProgress' | 'Value: 0, 0.54902, 0.54902', 
+'Index: PlaceholderColor' | 'Value: 0.54902, 0.627451, 0.627451', 
+'Index: InputStroke' | 'Value: 0.196078, 0.27451, 0.27451', 
+'Index: ToggleDisabledStroke' | 'Value: 0.333333, 0.411765, 0.411765', 
+'Index: InputBackground' | 'Value: 0.117647, 0.196078, 0.196078', 
+'Index: ElementBackgroundHover' | 'Value: 0.156863, 0.235294, 0.235294', 
+'Index: DropdownUnselected' | 'Value: 0.0980392, 0.156863, 0.156863', 
+'Index: SelectedTabTextColor' | 'Value: 0.0784314, 0.196078, 0.196078', 
+'Index: NotificationBackground' | 'Value: 0.0980392, 0.137255, 0.137255', 
+'Index: DropdownSelected' | 'Value: 0.117647, 0.235294, 0.235294', 
+'Index: SecondaryElementStroke' | 'Value: 0.156863, 0.254902, 0.254902', 
+'Index: Background' | 'Value: 0.0784314, 0.117647, 0.117647', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.176471, 0.254902, 0.254902', 
+'Index: TabStroke' | 'Value: 0.196078, 0.27451, 0.27451', 
+'Index: ElementBackground' | 'Value: 0.117647, 0.196078, 0.196078', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.196078, 0.392157, 0.392157', 
+'Index: ToggleEnabled' | 'Value: 0, 0.509804, 0.509804', 
+'Index: ToggleEnabledStroke' | 'Value: 0, 0.627451, 0.627451', 
+'Index: ToggleDisabled' | 'Value: 0.27451, 0.352941, 0.352941', 
+'Index: SecondaryElementBackground' | 'Value: 0.117647, 0.176471, 0.176471', 
+'Index: ToggleBackground' | 'Value: 0.117647, 0.196078, 0.196078', 
+'Index: TabTextColor' | 'Value: 0.823529, 0.901961, 0.901961', 
+'Index: ElementStroke' | 'Value: 0.176471, 0.27451, 0.27451', 
+'Index: SliderBackground' | 'Value: 0, 0.431373, 0.431373', 
+'Index: SliderStroke' | 'Value: 0, 0.627451, 0.627451', 
+'Index: NotificationActionsBackground' | 'Value: 0.901961, 0.941176, 0.941176', 
+'Index: Topbar' | 'Value: 0.0980392, 0.156863, 0.156863', 
+'Index: TabBackground' | 'Value: 0.156863, 0.235294, 0.235294', 
+'Index: TabBackgroundSelected' | 'Value: 0.392157, 0.705882, 0.705882', 
+'Index: TextColor' | 'Value: 0.901961, 0.941176, 0.941176'
+},
+{
+'Index: Shadow' | 'Value: 0.0588235, 0.0784314, 0.0980392', 
+'Index: SliderProgress' | 'Value: 0, 0.470588, 0.823529', 
+'Index: PlaceholderColor' | 'Value: 0.588235, 0.588235, 0.627451', 
+'Index: InputStroke' | 'Value: 0.176471, 0.196078, 0.235294', 
+'Index: ToggleDisabledStroke' | 'Value: 0.294118, 0.294118, 0.333333', 
+'Index: InputBackground' | 'Value: 0.0980392, 0.117647, 0.137255', 
+'Index: ElementBackgroundHover' | 'Value: 0.156863, 0.176471, 0.196078', 
+'Index: DropdownUnselected' | 'Value: 0.0980392, 0.117647, 0.137255', 
+'Index: SelectedTabTextColor' | 'Value: 1, 1, 1', 
+'Index: NotificationBackground' | 'Value: 0.0980392, 0.117647, 0.137255', 
+'Index: DropdownSelected' | 'Value: 0.117647, 0.27451, 0.352941', 
+'Index: SecondaryElementStroke' | 'Value: 0.156863, 0.176471, 0.215686', 
+'Index: Background' | 'Value: 0.0784314, 0.0980392, 0.117647', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.215686, 0.215686, 0.254902', 
+'Index: TabStroke' | 'Value: 0.176471, 0.196078, 0.235294', 
+'Index: ElementBackground' | 'Value: 0.117647, 0.137255, 0.156863', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.0784314, 0.392157, 0.705882', 
+'Index: ToggleEnabled' | 'Value: 0, 0.470588, 0.823529', 
+'Index: ToggleEnabledStroke' | 'Value: 0, 0.588235, 0.941176', 
+'Index: ToggleDisabled' | 'Value: 0.27451, 0.27451, 0.313726', 
+'Index: SecondaryElementBackground' | 'Value: 0.137255, 0.156863, 0.176471', 
+'Index: ToggleBackground' | 'Value: 0.137255, 0.156863, 0.176471', 
+'Index: TabTextColor' | 'Value: 0.784314, 0.784314, 0.784314', 
+'Index: ElementStroke' | 'Value: 0.176471, 0.196078, 0.235294', 
+'Index: SliderBackground' | 'Value: 0, 0.352941, 0.705882', 
+'Index: SliderStroke' | 'Value: 0, 0.588235, 0.941176', 
+'Index: NotificationActionsBackground' | 'Value: 0.176471, 0.196078, 0.215686', 
+'Index: Topbar' | 'Value: 0.117647, 0.137255, 0.156863', 
+'Index: TabBackground' | 'Value: 0.137255, 0.156863, 0.176471', 
+'Index: TabBackgroundSelected' | 'Value: 0.156863, 0.27451, 0.392157', 
+'Index: TextColor' | 'Value: 0.901961, 0.901961, 0.901961'
+},
+{
+'Index: Shadow' | 'Value: 0.0784314, 0.0784314, 0.0784314', 
+'Index: SliderProgress' | 'Value: 0.196078, 0.541176, 0.862745', 
+'Index: PlaceholderColor' | 'Value: 0.698039, 0.698039, 0.698039', 
+'Index: InputStroke' | 'Value: 0.254902, 0.254902, 0.254902', 
+'Index: ToggleDisabledStroke' | 'Value: 0.490196, 0.490196, 0.490196', 
+'Index: InputBackground' | 'Value: 0.117647, 0.117647, 0.117647', 
+'Index: ElementBackgroundHover' | 'Value: 0.156863, 0.156863, 0.156863', 
+'Index: DropdownUnselected' | 'Value: 0.117647, 0.117647, 0.117647', 
+'Index: SelectedTabTextColor' | 'Value: 0.196078, 0.196078, 0.196078', 
+'Index: NotificationBackground' | 'Value: 0.0784314, 0.0784314, 0.0784314', 
+'Index: DropdownSelected' | 'Value: 0.156863, 0.156863, 0.156863', 
+'Index: SecondaryElementStroke' | 'Value: 0.156863, 0.156863, 0.156863', 
+'Index: Background' | 'Value: 0.0980392, 0.0980392, 0.0980392', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.254902, 0.254902, 0.254902', 
+'Index: TabStroke' | 'Value: 0.333333, 0.333333, 0.333333', 
+'Index: ElementBackground' | 'Value: 0.137255, 0.137255, 0.137255', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.392157, 0.392157, 0.392157', 
+'Index: ToggleEnabled' | 'Value: 0, 0.572549, 0.839216', 
+'Index: ToggleEnabledStroke' | 'Value: 0, 0.666667, 1', 
+'Index: ToggleDisabled' | 'Value: 0.392157, 0.392157, 0.392157', 
+'Index: SecondaryElementBackground' | 'Value: 0.0980392, 0.0980392, 0.0980392', 
+'Index: ToggleBackground' | 'Value: 0.117647, 0.117647, 0.117647', 
+'Index: TabTextColor' | 'Value: 0.941176, 0.941176, 0.941176', 
+'Index: ElementStroke' | 'Value: 0.196078, 0.196078, 0.196078', 
+'Index: SliderBackground' | 'Value: 0.196078, 0.541176, 0.862745', 
+'Index: SliderStroke' | 'Value: 0.227451, 0.639216, 1', 
+'Index: NotificationActionsBackground' | 'Value: 0.901961, 0.901961, 0.901961', 
+'Index: Topbar' | 'Value: 0.133333, 0.133333, 0.133333', 
+'Index: TabBackground' | 'Value: 0.313726, 0.313726, 0.313726', 
+'Index: TabBackgroundSelected' | 'Value: 0.823529, 0.823529, 0.823529', 
+'Index: TextColor' | 'Value: 0.941176, 0.941176, 0.941176'
+},
+{
+'Index: Shadow' | 'Value: 0.0784314, 0.0588235, 0.117647', 
+'Index: SliderProgress' | 'Value: 0.509804, 0.313726, 0.705882', 
+'Index: PlaceholderColor' | 'Value: 0.698039, 0.588235, 0.784314', 
+'Index: InputStroke' | 'Value: 0.313726, 0.196078, 0.431373', 
+'Index: ToggleDisabledStroke' | 'Value: 0.486275, 0.278431, 0.588235', 
+'Index: InputBackground' | 'Value: 0.176471, 0.117647, 0.235294', 
+'Index: ElementBackgroundHover' | 'Value: 0.196078, 0.137255, 0.27451', 
+'Index: DropdownUnselected' | 'Value: 0.137255, 0.0980392, 0.196078', 
+'Index: SelectedTabTextColor' | 'Value: 0.196078, 0.0784314, 0.196078', 
+'Index: NotificationBackground' | 'Value: 0.137255, 0.0784314, 0.156863', 
+'Index: DropdownSelected' | 'Value: 0.196078, 0.137255, 0.27451', 
+'Index: SecondaryElementStroke' | 'Value: 0.254902, 0.176471, 0.313726', 
+'Index: Background' | 'Value: 0.117647, 0.0784314, 0.156863', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.313726, 0.196078, 0.431373', 
+'Index: TabStroke' | 'Value: 0.27451, 0.176471, 0.352941', 
+'Index: ElementBackground' | 'Value: 0.176471, 0.117647, 0.235294', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.352941, 0.156863, 0.470588', 
+'Index: ToggleEnabled' | 'Value: 0.470588, 0.235294, 0.588235', 
+'Index: ToggleEnabledStroke' | 'Value: 0.54902, 0.313726, 0.666667', 
+'Index: ToggleDisabled' | 'Value: 0.368627, 0.184314, 0.458824', 
+'Index: SecondaryElementBackground' | 'Value: 0.156863, 0.117647, 0.215686', 
+'Index: ToggleBackground' | 'Value: 0.176471, 0.117647, 0.215686', 
+'Index: TabTextColor' | 'Value: 0.901961, 0.901961, 0.941176', 
+'Index: ElementStroke' | 'Value: 0.27451, 0.196078, 0.333333', 
+'Index: SliderBackground' | 'Value: 0.392157, 0.235294, 0.588235', 
+'Index: SliderStroke' | 'Value: 0.588235, 0.392157, 0.784314', 
+'Index: NotificationActionsBackground' | 'Value: 0.941176, 0.941176, 0.980392', 
+'Index: Topbar' | 'Value: 0.156863, 0.0980392, 0.196078', 
+'Index: TabBackground' | 'Value: 0.235294, 0.156863, 0.313726', 
+'Index: TabBackgroundSelected' | 'Value: 0.705882, 0.54902, 0.784314', 
+'Index: TextColor' | 'Value: 0.941176, 0.941176, 0.941176'
+},
+{
+'Index: Shadow' | 'Value: 0.901961, 0.745098, 0.764706', 
+'Index: SliderProgress' | 'Value: 0.980392, 0.627451, 0.705882', 
+'Index: PlaceholderColor' | 'Value: 0.666667, 0.509804, 0.54902', 
+'Index: InputStroke' | 'Value: 0.862745, 0.745098, 0.784314', 
+'Index: ToggleDisabledStroke' | 'Value: 0.823529, 0.705882, 0.745098', 
+'Index: InputBackground' | 'Value: 1, 0.921569, 0.941176', 
+'Index: ElementBackgroundHover' | 'Value: 0.960784, 0.862745, 0.901961', 
+'Index: DropdownUnselected' | 'Value: 0.941176, 0.823529, 0.862745', 
+'Index: SelectedTabTextColor' | 'Value: 0.196078, 0.117647, 0.196078', 
+'Index: NotificationBackground' | 'Value: 1, 0.921569, 0.941176', 
+'Index: DropdownSelected' | 'Value: 0.980392, 0.862745, 0.882353', 
+'Index: SecondaryElementStroke' | 'Value: 0.901961, 0.784314, 0.823529', 
+'Index: Background' | 'Value: 1, 0.941176, 0.960784', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.745098, 0.666667, 0.705882', 
+'Index: TabStroke' | 'Value: 0.901961, 0.784314, 0.823529', 
+'Index: ElementBackground' | 'Value: 1, 0.921569, 0.941176', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.862745, 0.627451, 0.705882', 
+'Index: ToggleEnabled' | 'Value: 1, 0.54902, 0.666667', 
+'Index: ToggleEnabledStroke' | 'Value: 0.980392, 0.627451, 0.745098', 
+'Index: ToggleDisabled' | 'Value: 0.784314, 0.705882, 0.72549', 
+'Index: SecondaryElementBackground' | 'Value: 1, 0.921569, 0.941176', 
+'Index: ToggleBackground' | 'Value: 0.941176, 0.823529, 0.862745', 
+'Index: TabTextColor' | 'Value: 0.313726, 0.156863, 0.235294', 
+'Index: ElementStroke' | 'Value: 0.901961, 0.784314, 0.823529', 
+'Index: SliderBackground' | 'Value: 0.941176, 0.509804, 0.627451', 
+'Index: SliderStroke' | 'Value: 1, 0.705882, 0.784314', 
+'Index: NotificationActionsBackground' | 'Value: 0.960784, 0.843137, 0.882353', 
+'Index: Topbar' | 'Value: 0.980392, 0.862745, 0.882353', 
+'Index: TabBackground' | 'Value: 0.941176, 0.823529, 0.862745', 
+'Index: TabBackgroundSelected' | 'Value: 1, 0.882353, 0.921569', 
+'Index: TextColor' | 'Value: 0.235294, 0.156863, 0.196078'
+},
+{
+'Index: Shadow' | 'Value: 0.784314, 0.823529, 0.862745', 
+'Index: SliderProgress' | 'Value: 0.27451, 0.509804, 0.705882', 
+'Index: PlaceholderColor' | 'Value: 0.588235, 0.588235, 0.588235', 
+'Index: InputStroke' | 'Value: 0.705882, 0.745098, 0.784314', 
+'Index: ToggleDisabledStroke' | 'Value: 0.54902, 0.54902, 0.54902', 
+'Index: InputBackground' | 'Value: 0.862745, 0.901961, 0.941176', 
+'Index: ElementBackgroundHover' | 'Value: 0.862745, 0.901961, 0.941176', 
+'Index: DropdownUnselected' | 'Value: 0.784314, 0.823529, 0.862745', 
+'Index: SelectedTabTextColor' | 'Value: 0.117647, 0.137255, 0.156863', 
+'Index: NotificationBackground' | 'Value: 0.823529, 0.862745, 0.901961', 
+'Index: DropdownSelected' | 'Value: 0.862745, 0.901961, 0.941176', 
+'Index: SecondaryElementStroke' | 'Value: 0.705882, 0.745098, 0.784314', 
+'Index: Background' | 'Value: 0.941176, 0.960784, 0.980392', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.470588, 0.470588, 0.509804', 
+'Index: TabStroke' | 'Value: 0.705882, 0.745098, 0.784314', 
+'Index: ElementBackground' | 'Value: 0.823529, 0.862745, 0.901961', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.392157, 0.470588, 0.54902', 
+'Index: ToggleEnabled' | 'Value: 0.27451, 0.627451, 0.823529', 
+'Index: ToggleEnabledStroke' | 'Value: 0.235294, 0.588235, 0.784314', 
+'Index: ToggleDisabled' | 'Value: 0.705882, 0.705882, 0.705882', 
+'Index: SecondaryElementBackground' | 'Value: 0.784314, 0.823529, 0.862745', 
+'Index: ToggleBackground' | 'Value: 0.823529, 0.862745, 0.901961', 
+'Index: TabTextColor' | 'Value: 0.196078, 0.215686, 0.235294', 
+'Index: ElementStroke' | 'Value: 0.745098, 0.784314, 0.823529', 
+'Index: SliderBackground' | 'Value: 0.784314, 0.862745, 0.921569', 
+'Index: SliderStroke' | 'Value: 0.588235, 0.705882, 0.862745', 
+'Index: NotificationActionsBackground' | 'Value: 0.882353, 0.901961, 0.941176', 
+'Index: Topbar' | 'Value: 0.843137, 0.882353, 0.921569', 
+'Index: TabBackground' | 'Value: 0.784314, 0.823529, 0.862745', 
+'Index: TabBackgroundSelected' | 'Value: 0.686275, 0.72549, 0.784314', 
+'Index: TextColor' | 'Value: 0.196078, 0.215686, 0.235294'
+},
+{
+'Index: Shadow' | 'Value: 0.784314, 0.862745, 0.784314', 
+'Index: SliderProgress' | 'Value: 0.27451, 0.509804, 0.27451', 
+'Index: PlaceholderColor' | 'Value: 0.470588, 0.54902, 0.470588', 
+'Index: InputStroke' | 'Value: 0.705882, 0.784314, 0.705882', 
+'Index: ToggleDisabledStroke' | 'Value: 0.509804, 0.588235, 0.509804', 
+'Index: InputBackground' | 'Value: 0.921569, 0.960784, 0.921569', 
+'Index: ElementBackgroundHover' | 'Value: 0.823529, 0.882353, 0.823529', 
+'Index: DropdownUnselected' | 'Value: 0.823529, 0.882353, 0.823529', 
+'Index: SelectedTabTextColor' | 'Value: 0.0784314, 0.235294, 0.0784314', 
+'Index: NotificationBackground' | 'Value: 0.941176, 0.980392, 0.941176', 
+'Index: DropdownSelected' | 'Value: 0.882353, 0.941176, 0.882353', 
+'Index: SecondaryElementStroke' | 'Value: 0.705882, 0.784314, 0.705882', 
+'Index: Background' | 'Value: 0.921569, 0.960784, 0.921569', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.627451, 0.705882, 0.627451', 
+'Index: TabStroke' | 'Value: 0.745098, 0.823529, 0.745098', 
+'Index: ElementBackground' | 'Value: 0.882353, 0.941176, 0.882353', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.392157, 0.627451, 0.392157', 
+'Index: ToggleEnabled' | 'Value: 0.235294, 0.509804, 0.235294', 
+'Index: ToggleEnabledStroke' | 'Value: 0.313726, 0.588235, 0.313726', 
+'Index: ToggleDisabled' | 'Value: 0.588235, 0.686275, 0.588235', 
+'Index: SecondaryElementBackground' | 'Value: 0.921569, 0.960784, 0.921569', 
+'Index: ToggleBackground' | 'Value: 0.843137, 0.921569, 0.843137', 
+'Index: TabTextColor' | 'Value: 0.196078, 0.313726, 0.196078', 
+'Index: ElementStroke' | 'Value: 0.705882, 0.784314, 0.705882', 
+'Index: SliderBackground' | 'Value: 0.352941, 0.627451, 0.352941', 
+'Index: SliderStroke' | 'Value: 0.392157, 0.705882, 0.392157', 
+'Index: NotificationActionsBackground' | 'Value: 0.862745, 0.921569, 0.862745', 
+'Index: Topbar' | 'Value: 0.823529, 0.901961, 0.823529', 
+'Index: TabBackground' | 'Value: 0.843137, 0.921569, 0.843137', 
+'Index: TabBackgroundSelected' | 'Value: 0.960784, 1, 0.960784', 
+'Index: TextColor' | 'Value: 0.117647, 0.235294, 0.117647'
+},
+{
+'Index: Shadow' | 'Value: 0.784314, 0.784314, 0.784314', 
+'Index: SliderProgress' | 'Value: 0.392157, 0.588235, 0.784314', 
+'Index: PlaceholderColor' | 'Value: 0.54902, 0.54902, 0.54902', 
+'Index: InputStroke' | 'Value: 0.705882, 0.705882, 0.705882', 
+'Index: ToggleDisabledStroke' | 'Value: 0.666667, 0.666667, 0.666667', 
+'Index: InputBackground' | 'Value: 0.941176, 0.941176, 0.941176', 
+'Index: ElementBackgroundHover' | 'Value: 0.882353, 0.882353, 0.882353', 
+'Index: DropdownUnselected' | 'Value: 0.862745, 0.862745, 0.862745', 
+'Index: SelectedTabTextColor' | 'Value: 0, 0, 0', 
+'Index: NotificationBackground' | 'Value: 0.980392, 0.980392, 0.980392', 
+'Index: DropdownSelected' | 'Value: 0.901961, 0.901961, 0.901961', 
+'Index: SecondaryElementStroke' | 'Value: 0.823529, 0.823529, 0.823529', 
+'Index: Background' | 'Value: 0.960784, 0.960784, 0.960784', 
+'Index: ToggleDisabledOuterStroke' | 'Value: 0.705882, 0.705882, 0.705882', 
+'Index: TabStroke' | 'Value: 0.843137, 0.843137, 0.843137', 
+'Index: ElementBackground' | 'Value: 0.941176, 0.941176, 0.941176', 
+'Index: ToggleEnabledOuterStroke' | 'Value: 0.392157, 0.392157, 0.392157', 
+'Index: ToggleEnabled' | 'Value: 0, 0.572549, 0.839216', 
+'Index: ToggleEnabledStroke' | 'Value: 0, 0.666667, 1', 
+'Index: ToggleDisabled' | 'Value: 0.588235, 0.588235, 0.588235', 
+'Index: SecondaryElementBackground' | 'Value: 0.921569, 0.921569, 0.921569', 
+'Index: ToggleBackground' | 'Value: 0.862745, 0.862745, 0.862745', 
+'Index: TabTextColor' | 'Value: 0.313726, 0.313726, 0.313726', 
+'Index: ElementStroke' | 'Value: 0.823529, 0.823529, 0.823529', 
+'Index: SliderBackground' | 'Value: 0.588235, 0.705882, 0.862745', 
+'Index: SliderStroke' | 'Value: 0.470588, 0.666667, 0.862745', 
+'Index: NotificationActionsBackground' | 'Value: 0.941176, 0.941176, 0.941176', 
+'Index: Topbar' | 'Value: 0.901961, 0.901961, 0.901961', 
+'Index: TabBackground' | 'Value: 0.921569, 0.921569, 0.921569', 
+'Index: TabBackgroundSelected' | 'Value: 1, 1, 1', 
+'Index: TextColor' | 'Value: 0.156863, 0.156863, 0.156863'
+}
+},
+
+{Index: SetVisibility | Value: function: 0xbec68ce2bf86eb15
